@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1637502140157,
+  "timestamp": 1637503115477,
   "index": "https://sebastian8934.github.io/jardinesDelEdenPrueba/index.html",
   "assetGroups": [
     {
@@ -84,7 +84,7 @@
     "https://sebastian8934.github.io/jardinesDelEdenPrueba/favicon.ico": "ab87708607d8c4208cdee14568f713619a200671",
     "https://sebastian8934.github.io/jardinesDelEdenPrueba/index.html": "e13200a7b5a0707a67bac179310556a812b1eab9",
     "https://sebastian8934.github.io/jardinesDelEdenPrueba/main.cc9dc53e1bff3ae4ae74.js": "878e58f8bb6ac5852455abb39d5848e4d77e74ca",
-    "https://sebastian8934.github.io/jardinesDelEdenPrueba/manifest.json": "8eb5c69e8c5a671f82a585514cdd4d499e90d109",
+    "https://sebastian8934.github.io/jardinesDelEdenPrueba/manifest.json": "608a23634882fe6a264d3125ceca650597eabd5d",
     "https://sebastian8934.github.io/jardinesDelEdenPrueba/polyfills.5e0ce2c1a99c8658e3f9.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "https://sebastian8934.github.io/jardinesDelEdenPrueba/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://sebastian8934.github.io/jardinesDelEdenPrueba/styles.b50c91f2ca6a2277424e.css": "d2829835d24c99352c9dce26a442375871ec493f"
