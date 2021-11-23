@@ -8,9 +8,9 @@
   "start_url": "./",
   "icons": [
     {
-      "src": "assets/icons/icon-72x72.png",
+      "src": "assets/icons/LogoPwa.jpg",
       "sizes": "72x72",
-      "type": "image/png",
+      "type": "image/jpg",
       "purpose": "maskable any"
     },
     {
